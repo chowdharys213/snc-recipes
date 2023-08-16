@@ -13,6 +13,7 @@ h1 {
   font-size: 4rem;
   text-transform: uppercase;
   margin: 3rem 0 3.5rem;
+  color: rgb(255, 0, 0);
 }
 
 ul {
@@ -35,6 +36,7 @@ a {
   text-decoration: none;
   color: #fff;
   padding-left: 0.7rem;
+  color: rgb(255, 192, 203);
 }
 
 a:hover {
